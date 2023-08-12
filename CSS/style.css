@@ -1,0 +1,27 @@
+.navbar img{
+    height: 50px;
+    width: auto;
+}
+
+.masthead{
+    height: 80vh;
+    width: 100%;
+    background-image: url("../img/ecb568265bc30c029c387a0a7afc22f9.jpg");
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4em;
+    color: #fff;
+    text-align: center;
+    padding-top: 5em;
+}
+
+.btn {
+    background-color: #208454;
+}
+
+.form-row {
+    padding-top: 10em;
+}
